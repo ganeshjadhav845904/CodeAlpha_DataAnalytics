@@ -23,8 +23,6 @@ CodeAlpha_DataAnalytics
 ├── Dataset
 │   └── Titanic-Dataset.csv
 │
-├── Images
-│
 ├── Task2_EDA
 │   ├── eda.py
 │   ├── REPORT.md
