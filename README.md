@@ -1,4 +1,5 @@
-# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+# CodeAlpha Data Analytics Internship Projects
+A collection of data analytics projects completed during my CodeAlpha internship using Python, Pandas, Matplotlib, Seaborn, and TextBlob.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -10,6 +11,29 @@
 ## 📌 Project Overview
 
 This repository contains the projects completed during my **CodeAlpha Data Analytics Internship**.
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Sentiment Analysis (NLP)
+- Python Programming
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- TextBlob
+
+## 📂 Projects Included
+
+### 1. Exploratory Data Analysis
+Performed data cleaning, missing-value handling, statistical analysis, and exploratory visualization on the Titanic dataset.
+
+### 2. Data Visualization Dashboard
+Created a professional dashboard to present important Titanic dataset insights in a clear visual format.
+
+### 3. Sentiment Analysis
+Used TextBlob to calculate polarity and subjectivity and classify text sentiment.
 
 The internship focused on solving real-world data analytics problems using Python. The projects demonstrate skills in data cleaning, exploratory data analysis (EDA), data visualization, and sentiment analysis.
 
@@ -140,6 +164,30 @@ Run Sentiment Analysis
 ```bash
 python Task4_SentimentAnalysis/sentiment_analysis.py
 ```
+
+## 📸 Project Screenshots
+
+### 📊 EDA Visualizations
+
+#### Survival Count
+![Survival Count](Task2_EDA/survival_count.png)
+
+#### Gender Distribution
+![Gender Distribution](Task2_EDA/gender_distribution.png)
+
+#### Passenger Class Distribution
+![Passenger Class](Task2_EDA/passenger_class.png)
+
+#### Age Distribution
+![Age Distribution](Task2_EDA/age_distribution.png)
+
+#### Correlation Heatmap
+![Heatmap](Task2_EDA/heatmap.png)
+
+### 📈 Dashboard
+
+![Dashboard](Task3_DataVisualization/dashboard.png)
+
 
 ---
 
